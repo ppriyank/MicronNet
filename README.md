@@ -6,4 +6,4 @@ https://arxiv.org/pdf/1804.00497.pdf)
 
 ## Architecture 
 
-![Model](https://github.com/ppriyank/MicronNet/edit/master/architecture.png)
+![Model](https://github.com/ppriyank/MicronNet/blob/master/architecture.png)
